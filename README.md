@@ -1,8 +1,8 @@
 Takes a vocabulary list, such as:
 
-<code>lens — la lente<br />
-film — la capa<br />
-skateboard — la patineta</code>
+<pre>lens — la lente
+film — la capa
+skateboard — la patineta</pre>
 
 and fetches the appropriate examples from SpanishDict.com.
 <br /><br />
